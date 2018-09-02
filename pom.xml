@@ -7,6 +7,7 @@
     <groupId>com.queryholic.spring</groupId>
     <artifactId>vanila</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
 
     <properties>
         <org.springframework-version>4.3.4.RELEASE</org.springframework-version>
