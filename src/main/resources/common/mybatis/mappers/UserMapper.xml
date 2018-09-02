@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.queryholic.spring.vanila.mapper.UserMapper">
+
+    <select id="selectUserList" parameterType="User" resultType="User">
+        SELECT /* UserMapper.selectUserList */
+          id,
+          name,
+          address
+        FROM users
+        <if test="@org.apache.commons.lang.StringUtils@isNotEmpty(name)">
+            AND users.name = #{name}
+        </if>
+    </select>
+
+</mapper>
