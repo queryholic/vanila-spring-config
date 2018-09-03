@@ -17,39 +17,38 @@
 
 1. [Project Explorer] > Import > Import
 
-<img src="./img-for-guide/1.png" width="350" height="200" />
-![Alt 1](./img-for-guide/1.png)
+<img src="./img-for-guide/1.png" width="400" height="500" />
 
 2. Projects from Git 클릭
 
-![Alt 2](./img-for-guide/2.png)
+<img src="./img-for-guide/2.png" width="400" height="500" />
 
 3. Clone URI
 
-![Alt 3](./img-for-guide/3.png)
+<img src="./img-for-guide/3.png" width="400" height="500" />
 
 4. GitHub 정보 입력
 
-![Alt 4](./img-for-guide/4.png)
+<img src="./img-for-guide/4.png" width="400" height="500" />
 
 5. 가지고 올 브랜치 체크
 가지고 오고자 하는 브랜치들을 체크한다.
 모두 다 체크해도 괜찮다.
 
-![Alt 5](./img-for-guide/5.png)
+<img src="./img-for-guide/5.png" width="400" height="500" />
 
 6. 내려받은 소스를 저장시킬 위치를 지정한다.
 
-![Alt 6](./img-for-guide/6.png)
+<img src="./img-for-guide/6.png" width="400" height="500" />
 
 7. Import as General Project
 일단은 별도 추가 설정없이 소스만 내려받기 위해 General 프로젝트로서 다운로드 받도록 한다.
 
-![Alt 7](./img-for-guide/7.png)
+<img src="./img-for-guide/7.png" width="400" height="500" />
 
 8. Finish 클릭하면 소스가 내려받아진다.
 
-![Alt 8](./img-for-guide/8.png)
+<img src="./img-for-guide/8.png" width="400" height="500" />
 
 9. Maven 프로젝트로 변환
 
@@ -59,7 +58,7 @@
 
  변환이 정상적으로 잘 되었다면 프로젝트 아이콘 왼쪽 오른쪽에 M과 J 표시가 나타날 것이며 이클립스는 이 과정을 수행하며 의존성 라이브러리들(스프링 라이브러리, mybatis 라이브러리 등)을 운로드 받고, 컴파일 및 패키징 관련 프로젝트 설정또한 알아서 잡아준다.    
 
-![Alt 9](./img-for-guide/9.png)
+<img src="./img-for-guide/9.png" width="400" height="500" />
 
 ---
 
@@ -84,18 +83,18 @@
 
 [Servers 탭] > New > Server 를 통해 미리 받아놓은 톰캣 서버를 이클립스에 추가하여 프로젝트와 연동하도록 한다. 
 
-![Alt 10](./img-for-guide/10.png)
-![Alt 11](./img-for-guide/11.png)
-![Alt 12](./img-for-guide/12.png)
-![Alt 13](./img-for-guide/13.png)
-![Alt 14](./img-for-guide/14.png)
-![Alt 15](./img-for-guide/15.png)
+<img src="./img-for-guide/10.png" width="400" height="500" />
+<img src="./img-for-guide/11.png" width="400" height="500" />
+<img src="./img-for-guide/12.png" width="400" height="500" />
+<img src="./img-for-guide/13.png" width="400" height="500" />
+<img src="./img-for-guide/14.png" width="400" height="500" />
+<img src="./img-for-guide/15.png" width="400" height="500" />
 
 아래와 같이 Hello World 를 출력하는 JSP 를 이용한 간단한 뷰 화면이 나올 것이다.  
 
-![Alt 16](./img-for-guide/16.png)
+<img src="./img-for-guide/16.png" width="400" height="500" />
 
 또한, H2 Memory DB 에 넣어둔 데이터 2개가 로그에 찍히는 모습을 확인할 수 있다.
 
-![Alt 17](./img-for-guide/17.png)
+<img src="./img-for-guide/17.png" width="400" height="500" />
 
