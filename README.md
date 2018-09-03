@@ -17,6 +17,7 @@
 
 1. [Project Explorer] > Import > Import
 
+<img src="./img-for-guide/1.png" width="350" height="200" />
 ![Alt 1](./img-for-guide/1.png)
 
 2. Projects from Git 클릭
