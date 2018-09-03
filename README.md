@@ -83,7 +83,7 @@
 
 [Servers 탭] > New > Server 를 통해 미리 받아놓은 톰캣 서버를 이클립스에 추가하여 프로젝트와 연동하도록 한다. 
 
-<img src="./img-for-guide/10.png" width="400" height="500" />
+![Alt 10](./img-for-guide/10.png)
 <img src="./img-for-guide/11.png" width="400" height="500" />
 <img src="./img-for-guide/12.png" width="400" height="500" />
 <img src="./img-for-guide/13.png" width="400" height="500" />
@@ -92,9 +92,9 @@
 
 아래와 같이 Hello World 를 출력하는 JSP 를 이용한 간단한 뷰 화면이 나올 것이다.  
 
-<img src="./img-for-guide/16.png" width="400" height="500" />
+![Alt 16](./img-for-guide/16.png)
 
 또한, H2 Memory DB 에 넣어둔 데이터 2개가 로그에 찍히는 모습을 확인할 수 있다.
 
-<img src="./img-for-guide/17.png" width="400" height="500" />
+![Alt 17](./img-for-guide/17.png)
 
